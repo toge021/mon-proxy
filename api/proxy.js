@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
   // Ta vraie URL ngrok (remplace par la tienne)
-  const TARGET_URL = 'https://metamerically-excusive-freddy.ngrok-free.dev';
+  const TARGET_URL = 'https://caucus-wavy-disorder.ngrok-free.dev';
 
   try {
     // Construire l'URL avec les paramètres de la requête
